@@ -14,13 +14,14 @@ function getStudents(): array
 
 function sortStudents(array $students): array
 {
-    // edit the code below
+    sort(sortStudents);
+
     return [];
 }
 
 function findStudentByPosition(array $students, int $position): array
 {
-    // edit the code below
+    
     return [];
 }
 
