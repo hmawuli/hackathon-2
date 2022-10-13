@@ -14,9 +14,9 @@ function getStudents(): array
 
 function sortStudents(array $students): array
 {
-    sort(sortStudents);
+    Sort($students);
 
-    return [];
+    return Sort_list;
 }
 
 function findStudentByPosition(array $students, int $position): array
